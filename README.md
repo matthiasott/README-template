@@ -124,7 +124,7 @@ We use [Semantic Versioning](http://semver.org/) for versioning.
   - **Matthias Ott** - *README Template* -
     [matthiasott](https://github.com/matthiasott)
     
-## Contributors ✨ Acknowledgments
+## Contributors ✨ and Acknowledgments
 
   - Thanks to those amazing people: A, B, C (with links to their profiles/websites)
   - Hat tip to anyone whose code is used
