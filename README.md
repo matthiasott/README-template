@@ -1,6 +1,6 @@
 # Project Title
 
-> A short description about the project
+> A short description of the project
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
