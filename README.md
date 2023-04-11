@@ -14,7 +14,7 @@
 
 - [Description](#description)
 - [Getting Started](#getting-started)
-  - [Prerequisites and Main Dependecies](#prerequisites-and-main-dependecies)
+  - [Prerequisites and Main Dependencies](#prerequisites-and-main-dependencies)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
@@ -25,7 +25,7 @@
 - [Changelog](#changelog)
 - [Roadmap](#roadmap)
 - [Authors](#authors)
-- [Contributors ✨ Acknowledgments](#contributors--acknowledgments)
+- [Contributors ✨ and Acknowledgments](#contributors--and-acknowledgments)
 - [Contributing](#contributing)
 - [License](#license)
 
