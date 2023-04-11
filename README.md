@@ -6,9 +6,28 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+<!-- The following section is generated with doctoc (https://github.com/thlorenz/doctoc), e.g. by running `doctoc README.md --title '## Table of Contents'` -->
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc (https://github.com/thlorenz/doctoc) TO UPDATE -->
-<!-- e.g. by running `doctoc README.md --title '## Table of Contents'` -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Description](#description)
+- [Getting Started](#getting-started)
+  - [Prerequisites and Main Dependecies](#prerequisites-and-main-dependecies)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Deployment](#deployment)
+  - [Server](#server)
+  - [Branches](#branches)
+- [Additional Documentation](#additional-documentation)
+- [Changelog](#changelog)
+- [Roadmap](#roadmap)
+- [Authors](#authors)
+- [Contributors ✨ Acknowledgments](#contributors--acknowledgments)
+- [Contributing](#contributing)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
