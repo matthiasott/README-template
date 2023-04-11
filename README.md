@@ -37,7 +37,7 @@ One to two paragraphs about the project: What is this project about? What does t
 
 ## Getting Started
 
-### Prerequisites and Main Dependecies
+### Prerequisites and Main Dependencies
 
 * You need this
 * And you need this
