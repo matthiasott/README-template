@@ -57,7 +57,7 @@ npm install our-lovely-project --save
 
 Instructions for how to configure, run, and use the project. For example, you can include the commands needed to install and start the development environment or any other useful and important commands. Screenshots can be included as well.
 
-_For more examples and usage, please refer to the [Documentation][https://github.com/yourname/yourproject/wiki]._
+_For more examples and usage, please refer to the [Documentation](https://github.com/yourname/yourproject/wiki)._
 
 ## Testing 
 
