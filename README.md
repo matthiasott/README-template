@@ -139,7 +139,7 @@ We use [Semantic Versioning](http://semver.org/) for versioning.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-*Important*: Does this project use any sprecific coding guidelines, styles, or does it have a code of conduct?
+*Important*: Does this project use any specific coding guidelines, styles, or does it have a code of conduct?
 
 ## License
 
